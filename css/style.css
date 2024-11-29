@@ -59,6 +59,7 @@ header{
 }
 .title{
     color: #7289DA;
+
 }
 .stretch{
     align-items: stretch;
@@ -66,4 +67,24 @@ header{
 .padding{
     padding-top: 5%;
 }
+.gap{
+    gap: 10%;
+}
+.social-box{
+    width: 10%;
+  
+}
+footer nav{
+    flex-grow: 1;
+    padding-left: 5%;
+}
+li{
+    padding-top: 5%;
+}
 
+.picture-box{
+    width: 200px;
+    height: 150px;
+    flex-shrink: 0;
+    background-color: red;
+}
