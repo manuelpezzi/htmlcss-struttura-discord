@@ -37,3 +37,11 @@ header{
 .flex-column{
     flex-direction: column;
 }
+.flex-center{
+    justify-content:center;
+    gap: 5%;
+}
+.jc-aorund{
+    justify-content: space-around;
+}
+
