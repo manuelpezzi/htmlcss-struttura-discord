@@ -44,4 +44,26 @@ header{
 .jc-aorund{
     justify-content: space-around;
 }
+.grey{
+    background-color: #f6f6f699;
+}
+.mac{
+    background-color: #7289DA;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.white{
+    color: yellow;
+}
+.title{
+    color: #7289DA;
+}
+.stretch{
+    align-items: stretch;
+}
+.padding{
+    padding-top: 5%;
+}
 
