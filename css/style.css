@@ -1,0 +1,25 @@
+
+header{
+    display: flex;
+    justify-content: space-between
+  ;
+  
+}
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 200px;
+  
+}
+.center{
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+   
+}
+button{
+    background-color: red;
+    height: 100px;
+    width: 200px;
+
+}
