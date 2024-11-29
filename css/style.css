@@ -1,11 +1,17 @@
-
 header{
-    display: flex;
-    justify-content: space-between
-  ;
-  
+    outline: 1px solid red;
 }
-div{
+
+.flex{
+    display: flex;
+}
+
+.jc-between{
+    justify-content: space-between;
+}
+
+
+.discord{
     background-color: aqua;
     height: 100px;
     width: 200px;
@@ -17,9 +23,17 @@ div{
     width: 200px;
    
 }
-button{
+.acces{
     background-color: red;
     height: 100px;
     width: 200px;
 
+}
+
+.header-text-center{
+   align-items: center;
+}
+
+.flex-column{
+    flex-direction: column;
 }
